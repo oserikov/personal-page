@@ -4,7 +4,7 @@
 
 # DO NOT CHANGE THIS VALUE. The deploy script relies on the site being deployed to the
 # "site" directory.
-name = "site"
+name = "Oleg Serikov"
 
 # This page should be the root of your website. It's important.
-page = "<your Notion share URL here>"
+page = "https://kiwi-temple-670.notion.site/Oleg-Serikov-ee62b7a9b4204c8b97cec6854249852d?pvs=4"
